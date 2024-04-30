@@ -1,0 +1,22 @@
+<items>
+	<item id="100" name="void" />
+
+	<item id="3043" article="a" name="crystal coin">
+		<attribute key="weight" value="10" />
+	</item>
+	<item id="3045" article="a" name="strange talisman">
+		<attribute key="weight" value="290" />
+		<attribute key="slotType" value="necklace" />
+		<attribute key="charges" value="200" />
+		<attribute key="showcharges" value="1" />
+		<attribute key="absorbPercentEnergy" value="10" />
+		<attribute key="showattributes" value="1" />
+	</item>
+	<item id="3047" article="a" name="magic light wand">
+		<attribute key="slotType" value="ammo" />
+		<attribute key="weight" value="1500" />
+		<attribute key="stopduration" value="1" />
+		<attribute key="showduration" value="1" />
+	</item>
+
+</items>

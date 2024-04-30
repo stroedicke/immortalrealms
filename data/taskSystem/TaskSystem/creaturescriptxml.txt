@@ -1,0 +1,1 @@
+<event type="kill" name="Tasks" script="killtasks.lua"/>
